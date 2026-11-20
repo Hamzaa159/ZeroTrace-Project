@@ -1,5 +1,5 @@
 # ZeroTrace-Project
-University of Washington Bothell. We created a startup website in Google Sites and an interactive cybersecurity dashboard prototype in Figma. The prototype shows how a security analyst could review alerts, investigate incidents, and choose how to respond.
+ZeroTrace is a team project for CSS 350 at the University of Washington Bothell. We created a startup website in Google Sites and an interactive cybersecurity dashboard prototype in Figma. The prototype shows how a security analyst could review alerts, investigate incidents, and choose how to respond.
 
 ## My contribution
 
